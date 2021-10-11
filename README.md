@@ -1,6 +1,6 @@
 ### About Me
 
-<a href="https://app.daily.dev/irongut"><img src="https://api.daily.dev/devcards/5878ddd0c5f846a0b65402212e4461b8.png?r=r53" width="280" align="right" alt="Dave Murray's Dev Card"/></a>
+<a href="https://app.daily.dev/irongut"><img src="https://github.com/irongut/irongut/blob/master/devcard.svg" width="280" align="right" alt="Dave Murray's Dev Card"/></a>
 
 A long time ago, in a galaxy far, far away a small boy loved his 8-bit home micro. He learned to write games in BASIC and Z80 assembly language and dreamed of building his own astromech droid...
 
