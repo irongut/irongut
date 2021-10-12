@@ -9,8 +9,8 @@ Hi, I'm Dave and I write code. In my career I've created quality solutions for a
 When not writing code, my passion is watching motorcycle racing with my partner. From MotoGP to World Superbike, British Superbike, Dakar and the Africa Eco Race, where we sponsored a team in 2020, if it has two wheels and an engine we'll watch it race!🏍
 
 * 👨‍🔧 I mostly work with C# and Xamarin
-* 🚢 I'm learning Blazor and Docker
-* 📃 I write a blog called [Sailing the Sharp Sea](https://blog.taranissoftware.com/)
+* 👨‍🏫 I'm learning Blazor and Docker
+* 📃 I've started a blog called [Sailing the Sharp Sea](https://blog.taranissoftware.com/)
 * 👨‍💻 You can find me on [GitHub](https://github.com/irongut)
 * 👋 Or [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/)
 * 🎬 Fun Fact: I was an extra in [Blackadder](https://www.imdb.com/title/tt0212579/)!
