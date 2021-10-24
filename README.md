@@ -15,6 +15,10 @@ When not writing code, my passion is watching motorcycle racing with my partner.
 * 👋 Or [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/)
 * 🎬 Fun Fact: I was an extra in [Blackadder](https://www.imdb.com/title/tt0212579/)!
 
-&nbsp;
+<div align="center">
 
 ![Irongut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irongut&count_private=true&show_icons=true&hide=contribs&title_color=dec303&text_color=eceff4&icon_color=bf3016&bg_color=90,2e3440,000000)
+
+</div>
+
+![Sailing the Sharp Sea: Latest](https://hashnode-blog-cards.souravdey777.vercel.app/api/getLatestHashnodeBlog?username=irongut&limit=3&large=true&theme=dark)
