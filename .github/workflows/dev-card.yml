@@ -3,7 +3,7 @@ name: Daily.Dev Card
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 8,20 * * *"
+    - cron: "0 20 * * *"
 
 jobs:
   dev-card:
