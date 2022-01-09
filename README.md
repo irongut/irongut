@@ -4,9 +4,9 @@
 
 A long time ago, in a galaxy far, far away a small boy loved his 8-bit home micro. He learned to write games in BASIC and Z80 assembly language and dreamed of building his own astromech droid...
 
-Hi, I'm Dave and I write code. In my career I've created quality solutions for a wide variety of industries. From industrial control systems for the electronics and automotive industries to GIS and statistical analysis software for the oil industry, software for call centres, the NHS and an SaaS ERP system for the catering industry. I currently work for a global engineering firm as lead developer for a suite of mobile apps built with Xamarin and provide support to a team creating a predictive analytics platform for the water industry using IoT and Blazor technologies.
+Hi, I'm Dave and I write code. In my career I've created solutions for a wide variety of industries. From industrial control systems for the electronics and automotive industries to GIS and statistical analysis software for the oil industry, software for call centres, the NHS and an SaaS ERP system for the catering industry. I currently work for a global engineering firm as lead developer for a suite of mobile apps built with Xamarin and provide support to a team creating a predictive analytics platform for the water industry using IoT and Blazor technologies.
 
-When not writing code, my passion is watching motorcycle racing with my partner. From MotoGP to World Superbike, British Superbike, Dakar and the Africa Eco Race, where we sponsored a team in 2020, if it has two wheels and an engine we'll watch it race!🏍
+When not writing code, my passion is watching motorcycle racing with my partner. From MotoGP to World Superbike, British Superbike, Dakar and the Africa Eco Race, where we sponsored a team in 2020, if it has two wheels and an engine we'll watch it race!🏍🏍🏍
 
 * 👨‍🔧 I mostly work with C# and Xamarin
 * 👨‍🏫 I'm learning Blazor and Docker
