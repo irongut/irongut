@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 <a href="https://app.daily.dev/irongut"><img src="https://github.com/irongut/irongut/blob/master/devcard.svg" width="280" align="right" alt="Dave Murray's Dev Card"/></a>
 
@@ -16,7 +16,14 @@ When not writing code, my passion is watching motorcycle racing with my partner.
 * 🎬 Fun Fact: I was an extra in [Blackadder](https://www.imdb.com/title/tt0212579/)!
 
 <div align="center">
-
+  
 ![Irongut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irongut&count_private=true&show_icons=true&hide=contribs&title_color=dec303&text_color=eceff4&icon_color=bf3016&bg_color=90,2e3440,000000)
+  
+</div>
+
+### Featured Articles
+<div align="center">
+
+![VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks&large=true&theme=dark) ![Platform Specific Code using Partial Classes in .NET MAUI](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui&large=true&theme=dark) ![Microsoft Build 2022: Xamarin & MAUI Recap](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/building-net-maui-apps-with-github-actions&large=true&theme=dark)
 
 </div>
