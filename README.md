@@ -24,6 +24,6 @@ When not writing code, my passion is watching motorcycle racing with my partner.
 ### Featured Articles
 <div align="center">
 
-[![VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks&large=true&theme=dark)](https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks) &nbsp; [![Platform Specific Code using Partial Classes in .NET MAUI](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui&large=true&theme=dark)](https://blog.taranissoftware.com/platform-specific-code-using-partial-classes-in-net-maui)
+[![Achievement Unlocked - Build mobile and desktop apps with .NET MAUI!](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui&large=true&theme=dark)](https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui) &nbsp; [![VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks&large=true&theme=dark)](https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks)
 
 </div>
