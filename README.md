@@ -24,6 +24,8 @@ When not writing code, my passion is watching motorcycle racing with my partner.
 ### Featured Articles
 <div align="center">
 
-[![Achievement Unlocked - Build mobile and desktop apps with .NET MAUI!](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui&large=true&theme=dark)](https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui) &nbsp; [![VS2022 17.3 Preview 1.1 - Missing Xamarin SDKs](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks&large=true&theme=dark)](https://blog.taranissoftware.com/vs2022-173-preview-11-missing-xamarin-sdks)
+[![MAUI Beach - Updating to .NET MAUI GA](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/maui-beach-updating-to-net-maui-ga&large=true&theme=dark)](https://blog.taranissoftware.com/maui-beach-updating-to-net-maui-ga)
+ &nbsp; 
+[![Achievement Unlocked - Build mobile and desktop apps with .NET MAUI!](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui&large=true&theme=dark)](https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui)
 
 </div>
