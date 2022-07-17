@@ -24,8 +24,8 @@ When not writing code, my passion is watching motorcycle racing with my partner.
 ### Featured Articles
 <div align="center">
 
+[![Build .NET MAUI apps with GitHub Actions](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions&large=true&theme=dark)](https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions)
+&nbsp; 
 [![MAUI Beach - Updating to .NET MAUI GA](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/maui-beach-updating-to-net-maui-ga&large=true&theme=dark)](https://blog.taranissoftware.com/maui-beach-updating-to-net-maui-ga)
- &nbsp; 
-[![Achievement Unlocked - Build mobile and desktop apps with .NET MAUI!](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui&large=true&theme=dark)](https://blog.taranissoftware.com/achievement-unlocked-build-mobile-and-desktop-apps-with-net-maui)
 
 </div>
