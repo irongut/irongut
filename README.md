@@ -23,8 +23,8 @@ When not writing code, my passion is watching motorcycle racing. From MotoGP to 
 ## Featured Articles
 <div align="center">
 
-[![Build .NET MAUI apps with GitHub Actions](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions&large=true&theme=dark)](https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions)
+[![Thank-you GitHub](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/thank-you-github&large=true&theme=dark)](https://blog.taranissoftware.com/thank-you-github)
 &nbsp; 
-[![MAUI Beach - Updating to .NET MAUI GA](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/maui-beach-updating-to-net-maui-ga&large=true&theme=dark)](https://blog.taranissoftware.com/maui-beach-updating-to-net-maui-ga)
+[![Build .NET MAUI apps with GitHub Actions](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions&large=true&theme=dark)](https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions)
 
 </div>
