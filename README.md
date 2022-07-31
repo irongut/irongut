@@ -23,8 +23,8 @@ When not writing code, my passion is watching motorcycle racing. From MotoGP to 
 ## Featured Articles
 <div align="center">
 
+[![My new app doesn't use .NET MAUI! Why?](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why&large=true&theme=dark)](https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why)
+&nbsp;
 [![Thank-you GitHub](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/thank-you-github&large=true&theme=dark)](https://blog.taranissoftware.com/thank-you-github)
-&nbsp; 
-[![Build .NET MAUI apps with GitHub Actions](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions&large=true&theme=dark)](https://blog.taranissoftware.com/build-net-maui-apps-with-github-actions)
 
 </div>
