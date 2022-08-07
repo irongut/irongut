@@ -23,8 +23,8 @@ When not writing code, my passion is watching motorcycle racing. From MotoGP to 
 ## Featured Articles
 <div align="center">
 
-[![My new app doesn't use .NET MAUI! Why?](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why&large=true&theme=dark)](https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why)
+[![Secure your .NET builds with StepSecurity and GitHub Actions](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/secure-your-net-builds-with-stepsecurity-and-github-actions&large=true&theme=dark)](https://blog.taranissoftware.com/secure-your-net-builds-with-stepsecurity-and-github-actions)
 &nbsp;
-[![Thank-you GitHub](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/thank-you-github&large=true&theme=dark)](https://blog.taranissoftware.com/thank-you-github)
+[![My new app doesn't use .NET MAUI! Why?](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why&large=true&theme=dark)](https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why)
 
 </div>
