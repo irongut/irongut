@@ -23,8 +23,8 @@ When not writing code, my passion is watching motorcycle racing. From MotoGP to 
 ## Featured Articles
 <div align="center">
 
-[![Secure your .NET builds with StepSecurity and GitHub Actions](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/secure-your-net-builds-with-stepsecurity-and-github-actions&large=true&theme=dark)](https://blog.taranissoftware.com/secure-your-net-builds-with-stepsecurity-and-github-actions)
+[![Secure your workflows with StepSecurity Harden Runner](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/secure-your-workflows-with-stepsecurity-harden-runner&large=true&theme=dark)](https://blog.taranissoftware.com/secure-your-workflows-with-stepsecurity-harden-runner)
 &nbsp;
-[![My new app doesn't use .NET MAUI! Why?](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why&large=true&theme=dark)](https://blog.taranissoftware.com/my-new-app-doesnt-use-net-maui-why)
+[![Secure your .NET builds with StepSecurity and GitHub Actions](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://blog.taranissoftware.com/secure-your-net-builds-with-stepsecurity-and-github-actions&large=true&theme=dark)](https://blog.taranissoftware.com/secure-your-net-builds-with-stepsecurity-and-github-actions)
 
 </div>
